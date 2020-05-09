@@ -19,7 +19,7 @@ Pyhton 3 and Anaconda
 - David Bohnhoff https://github.com/DataaDave
 
 ## Results
-The results are available [here](https://github.com/DataaDave)
+The results are available [here](https://github.com/DataaDave/tmdb_movies_data_analysis/blob/master/tmdb_movies_data_analysis.ipynb)
 
 ## Acknowledgements
 - Kaggle and tmdb for the data
