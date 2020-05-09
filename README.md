@@ -16,11 +16,11 @@ Pyhton 3 and Anaconda
 1 notebook created in JupyterLab. File name: tmdb_movies_data_analysis.ipynb
 
 ## Authors
--David Bohnhoff https://github.com/DataaDave
+- David Bohnhoff https://github.com/DataaDave
 
 ## Results
 The results are available [here](https://github.com/DataaDave)
 
 ## Acknowledgements
--Kaggle and tmdb for the data
--Udacity for the course
+- Kaggle and tmdb for the data
+- Udacity for the course
