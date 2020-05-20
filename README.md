@@ -15,7 +15,7 @@ Pyhton 3 and Anaconda
 ## File Descriptions
 1 notebook created in JupyterLab. File name: tmdb_movies_data_analysis.ipynb
 
-## Authors
+## Author
 - David Bohnhoff https://github.com/DataaDave
 
 ## Results
